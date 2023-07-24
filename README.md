@@ -1,9 +1,9 @@
-##Bem-vindo(a) ao meu perfil no GitHub!
-
+  ### Bem-vindo (a) ao meu perfil no GitHub!
+  
 <div>
   <a href="https://github.com/mimacarfer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimacarfer&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimacarfer&layout=compact&langs_count=6&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimacarfer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimacarfer&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
